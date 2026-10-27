@@ -1,4 +1,3 @@
 .ipynb_checkpoints/
-Jeux.ipynb
-ZCasino.ipynb
-Model utilisateur.ipynb
+__pycache__/
+Bases de données utilisateurs.txt
